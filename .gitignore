@@ -42,4 +42,5 @@ node_modules
 amplifyconfiguration*
 
 # others
-README/
+README/*
+info-set-up.txt
