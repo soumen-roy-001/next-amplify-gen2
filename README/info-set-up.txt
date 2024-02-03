@@ -48,3 +48,6 @@ Before you can start creating the cloud sandbox environment, Amplify will need t
 9. Done! You have successfully completed the bootstrapping process 
 and you can now return to the terminal to create a new Amplify sandbox environment:
 	npx amplify sandbox --profile <IAM user>
+10. You should now have these two commands running concurrently in different terminal windows.
+11. Build a backend
+12. Build UI
